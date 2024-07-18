@@ -55,6 +55,13 @@ button {
     height:auto;
 }
 
+.mediumlogo {
+    width: 14rem;
+}
+.mediumtext {
+    width: 16rem;
+}
+
 .smalllogo {
     width:8rem;
 }
@@ -107,4 +114,8 @@ button {
 .plateinfo > p {
     margin:0;
     width:25vw;
+}
+
+.contactinfo p {
+    width:35vw;
 }
