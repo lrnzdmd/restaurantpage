@@ -5,13 +5,14 @@ module.exports = {
     entry: './src/index.js',
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'Restaurant',
+            title: 'Pizza Bird',
             template: './src/index.html',
         }),
     ],
     output: {
         filename: 'bundle.js',
         path: path.resolve(__dirname, 'dist'),
+        clean: true,
     },
     module: {
         rules: [
@@ -29,4 +30,5 @@ module.exports = {
             },
         ],
     },
+    mode: 'development',
 };
