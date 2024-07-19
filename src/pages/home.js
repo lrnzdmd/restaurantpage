@@ -1,5 +1,5 @@
-import createLogo from '../modules/logo.js';
+import createLogo from "../modules/logo.js";
 
 export default function createHome() {
-    createLogo("big");
+  createLogo("big");
 }
