@@ -176,7 +176,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \**************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"88481636c039f77510f6.png\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/PizzaBirdLogo.png?");
+eval("module.exports = __webpack_require__.p + \"47114ca3da5845859770.png\";\n\n//# sourceURL=webpack://restaurantpage/./src/images/PizzaBirdLogo.png?");
 
 /***/ }),
 
