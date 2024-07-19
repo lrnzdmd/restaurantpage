@@ -6,7 +6,7 @@ module.exports = {
     plugins: [
         new HtmlWebpackPlugin({
             title: 'Pizza Bird',
-            template: './src/index.html',
+            template: './src/template.html',
         }),
     ],
     output: {
